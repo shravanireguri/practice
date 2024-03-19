@@ -6,7 +6,6 @@ public class Addition {
 		int num2 = 20;
 
 		int res = num1 + num2;
-
 		System.out.println(res);
 	}
 }
